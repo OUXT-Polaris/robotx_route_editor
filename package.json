@@ -9,6 +9,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "log": "^1.4.0"
+    "createjs": "^1.0.1",
+    "log": "^1.4.0",
+    "utm-latlng": "^1.0.5"
   }
 }
